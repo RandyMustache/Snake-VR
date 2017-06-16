@@ -1,0 +1,21 @@
+{
+  "name": "snake-vr",
+  "version": "0.0.1",
+  "description": "Snake VR is an interpritation of the Classic Snake game, except first person and in VR. Built for the Web and Google Cardboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "VR",
+    "Snake",
+    "Cardboard",
+    "WebGL"
+  ],
+  "author": "Mitchell Smith",
+  "license": "MIT"
+}
